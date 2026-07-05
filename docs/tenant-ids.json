@@ -1,0 +1,21 @@
+{
+  "Users": {
+    "ife.adeleke@tearinksoutlook.onmicrosoft.com": "c752c504-a538-4930-b396-e0eaae2c98c4",
+    "fatima.aliyu@tearinksoutlook.onmicrosoft.com": "60a9f415-9f34-4f47-97ee-af4e6983dd32",
+    "halima.musa@tearinksoutlook.onmicrosoft.com": "f65fbdf1-a434-44b4-8db4-0fe19159d4e1",
+    "ada.okonkwo@tearinksoutlook.onmicrosoft.com": "6f00e063-d7e9-4a34-b292-56f7129449d1",
+    "gbenga.afolabi@tearinksoutlook.onmicrosoft.com": "ad2f5440-d191-4087-b13e-2a283abc2b38",
+    "jide.babatunde@tearinksoutlook.onmicrosoft.com": "eee58bce-3d8d-4dd2-b573-044f3a630fde",
+    "emeka.eze@tearinksoutlook.onmicrosoft.com": "a14863c6-0161-4325-93f1-1a19c720460f",
+    "dami.oladele@tearinksoutlook.onmicrosoft.com": "0b0e698e-1c49-4d05-ac8d-fe2dd91c394b",
+    "bola.adeyemi@tearinksoutlook.onmicrosoft.com": "bbe89d67-8270-4994-ba63-1ca10c20bb43",
+    "chidi.nwosu@tearinksoutlook.onmicrosoft.com": "b84d1f29-5738-44de-ac3b-9692b89c574e"
+  },
+  "Groups": {
+    "sg-admins": "fe545fe4-924c-4665-8ae5-ac35aaa307f9",
+    "sg-finance": "dd7cabc0-a751-403d-ae2b-d79e144219fc",
+    "sg-engineers": "49698c0e-3772-45fe-ac48-08784ed66602",
+    "sg-all-users": "97bbabbd-1ec7-4211-af07-a00347da51e6"
+  },
+  "Domain": "tearinksoutlook.onmicrosoft.com"
+}
